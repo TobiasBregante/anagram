@@ -1,0 +1,14 @@
+.content{
+	text-align: center;
+	min-height: 100vh; }
+.front{
+	box-shadow: 0px 0px 10px #000;
+	border-radius: 100px;
+	text-align: center;
+	margin: auto;
+	margin-top: 10%;
+	color: #FFF;
+	height: 60%; }
+.anagram{
+	font-size: 2em;
+	font-weight: 800; }		
